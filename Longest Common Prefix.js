@@ -28,3 +28,4 @@ longestCommonPrefix = (strs) => {
     return output;
 };
 
+//Test
