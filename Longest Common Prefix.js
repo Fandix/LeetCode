@@ -8,7 +8,7 @@ longestCommonPrefix = (strs) => {
     if (strs.length === 0) 
         return "";
 
-    //Step 3 : Calculate
+    //Step 2 : Calculate
     for(let i=0;i<strs[0].length;i++)
     {
         count = 0;
